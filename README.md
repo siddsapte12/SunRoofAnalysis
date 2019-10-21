@@ -39,11 +39,11 @@ When we install the photovoltic system of 5kW, we can see the reduction in the e
 
 Top 50 cities with potential carbon offset:
 
-![top 50 cities](Demo/top5o.gif)
+![top 50 cities](Demo/top5o.PNG)
 
 The carbon offset can be increased, considering solar panels System; by increasing the solar panels. Top 3 states which contains the maximum carbon offset potential regions and how many solar panels can be installed in the ranges of 0 kW to 8 mW:
 
-![carbon offset](Demo/carbonoffset.gif)
+![carbon offset](Demo/carbonoffset.PNG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
